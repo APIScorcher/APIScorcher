@@ -21,9 +21,13 @@ I'm a teenager who has a great interest in Ethical Hacking and Programming.
 
 # Programming Languages 💻
 Python
+
 HTML
+
 C
+
 CSharp
+
 GoLang 
 
 # Contact 📱
