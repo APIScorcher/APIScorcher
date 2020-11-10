@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=APIScorcher&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APIScorcher&theme=tokyonight" />
 
 # About me 👦
 I'm a teenager who has a great interest in Ethical Hacking and Programming.
