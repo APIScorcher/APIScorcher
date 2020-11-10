@@ -18,7 +18,7 @@ Welcome to my GitHub.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APIScorcher&theme=tokyonight" />
 
-[![APIScorcher's Stats](https://github-readme-stats.vercel.app/api/pin/?username=APIScorcher&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![APIScorchers Stats](https://github-readme-stats.vercel.app/api?username=APIScorcher&show_icons=true&theme=tokyonight)
 
 # About me 👦
 I'm a teenager who has a great interest in Ethical Hacking and Programming.
