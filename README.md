@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APIScorcher&theme=tokyonight" /> <img align="right" src="https://github-readme-stats.vercel.app/api/github-stats/?username=APIScorcher&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APIScorcher&theme=tokyonight" />
+[![APIScorchers's github stats](https://github-readme-stats.vercel.app/api?username=APIScorcher)](https://github.com/anuraghazra/github-readme-stats)
 
 # About me 👦
 I'm a teenager who has a great interest in Ethical Hacking and Programming.
