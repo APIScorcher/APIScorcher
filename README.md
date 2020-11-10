@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **APIScorcher/APIScorcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub.
+
+# About me 👦
+I'm a teenager who has a great interest in Ethical Hacking and Programming.
+
+# Programming Languages 💻
+Python
+HTML
+C
+CSharp
+GoLang 
+
+# Contact 📱
+Discord: Predator#1337
+
