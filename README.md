@@ -36,7 +36,7 @@ CSharp
 GoLang 
 
 # Contact 📱
-Discord: Predator#1446
+Discord: Predator#2471
 
 
 
