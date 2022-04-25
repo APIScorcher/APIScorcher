@@ -41,7 +41,7 @@ Solidity
 JavaScript
 
 # Contact 📱
-Discord: Predator#2471
+Discord: Predator#1337
 
 
 
