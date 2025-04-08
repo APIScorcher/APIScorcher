@@ -24,24 +24,21 @@ Welcome to my GitHub.
 # About me 👦
 I'm a teenager who has a great interest in Ethical Hacking and Programming.
 
-# Website 🌐
-https://www.0xpredator.me
+# Website
+quantfi.dev
 
 # Programming Languages 💻
 Python
 
 C
 
-C#
-
-GoLang 
-
-Solidity
+C++
 
 JavaScript
 
 # Contact 📱
-Discord: Predator#2896
+Discord: pwn.exe
+
 
 
 
