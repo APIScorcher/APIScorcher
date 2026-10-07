@@ -37,7 +37,7 @@ JavaScript
 
 TypeScript
 
-CCXT
+
 
 
 # Contact 📱
