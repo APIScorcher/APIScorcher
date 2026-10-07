@@ -22,10 +22,9 @@ Welcome to my GitHub.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APIScorcher&theme=tokyonight" />
 
 # About me 👦
-I'm a teenager who has a great interest in Ethical Hacking and Programming.
-
-# Website
-quantfi.dev
+Coding?
+#1 on HackTheBox in Pakistan (2023)
+B. Eng Mechatronics & Robotics - HS Schmalkalden
 
 # Programming Languages 💻
 Python
@@ -35,6 +34,11 @@ C
 C++
 
 JavaScript
+
+TypeScript
+
+CCXT
+
 
 # Contact 📱
 Discord: pwn.exe
